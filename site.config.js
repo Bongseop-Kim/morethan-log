@@ -4,7 +4,7 @@ const CONFIG = {
     name: "호섭이",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "React-Native, IOS 개발자입니다.",
-    bio: "github: https://github.com/Bongseop-Kim?tab=repositories \n email: bong989971@gmail.com",
+    bio: "github: https://github.com/Bongseop-Kim?tab=repositories ✉️: bong989971@gmail.com",
     email: "bong989971@gmail.com",
     linkedin: "",
     github: "https://github.com/Bongseop-Kim?tab=repositories",
